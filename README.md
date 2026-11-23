@@ -4,8 +4,7 @@
 
 A UML class diagram for a portfolio app that estimates someone's **net worth**. The original portfolio only held fixed assets like houses and jewelry. This design expands it to also include **bank accounts** and **credit cards**.
 
-![Asset Portfolio UML Diagram](assets-diagrams/fixed-assets-corrected.png)
-
+![Asset Portfolio UML Diagram](fixed-assets-corrected.png)
 ---
 
 ## The Problem
